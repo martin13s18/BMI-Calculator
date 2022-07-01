@@ -1,0 +1,13 @@
+.container {
+    width: 375px;
+    height: 525px;
+    margin-left: 550px;
+    margin-top: 65px;
+    background-color: yellow;
+    padding-left: 30px;
+}
+
+h1{
+    padding-left: 15px;
+    padding-top: 25px;
+}
